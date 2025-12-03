@@ -23,8 +23,10 @@ MS, Computer Science
 ### Projects
 
 #### Check Digit Project
- - [insert project 1 screenshot here]
- I was tasked with creating a web application to calculate the check digit for medical record numbers (MRNs). The check digit is an error correction mechanism and is calculated from the base MRN. This digit is necessary in order to access patient records but is often unavailable to the personnel working in the chart. The web page was built using HTML and JavaScript. After researching the check digit algorithm, code was written to generate the digit from the base MRN entered on the web form. The project was very successful and was reviewed very favorably by the users.
+ - ![CD Project](/ChecDigit.png)
+   
+ - I was tasked with creating a web application to calculate the check digit for medical record numbers (MRNs). The check digit is an error correction mechanism and is calculated from the base MRN. This digit is necessary in order to access patient records but is often unavailable to the personnel working in the chart. The web page was built using HTML and JavaScript. After researching the check digit algorithm, code was written to generate the digit from the base MRN entered on the web form. The project was very successful and was reviewed very favorably by the users.
+
 ***
 #### Project 2 Title
  - Project 2 Summary
