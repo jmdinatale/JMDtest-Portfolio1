@@ -1,3 +1,5 @@
+![Banner](/Banner.png)
+
 # Joseph DiNatale
 Contact Info: jdinatal@jhmi.edu
 ### About Me 
